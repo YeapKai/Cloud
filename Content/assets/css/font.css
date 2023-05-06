@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Fjalla-One';
+        src:  url('../fonts/Fjalla-One.ttf.woff') format('woff'),
+        url('../fonts/Fjalla-One.ttf.svg#Fjalla-One') format('svg'),
+        url('../fonts/Fjalla-One.ttf.eot'),
+        url('../fonts/Fjalla-One.eot?#iefix') format('embedded-opentype');
+        font-weight: normal;
+        font-style: normal;
+}
